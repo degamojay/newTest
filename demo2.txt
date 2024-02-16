@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Last demo text that is not Lorem Ipsum.
+=======
+>>>>>>> parent of 8b065c1 (Initial commit)
