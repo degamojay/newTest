@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 hellowieeee
-=======
->>>>>>> parent of 8b065c1 (Initial commit)
