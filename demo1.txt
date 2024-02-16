@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-Another one demo which is not Lorem Ipsum
-=======
->>>>>>> parent of 8b065c1 (Initial commit)
+hellos
