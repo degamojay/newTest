@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellowieeee
+=======
+Suspendisse a libero non tortor euismod malesuada. Sed congue placerat eros id sagittis. Cras dignissim nibh et nibh aliquet pellentesque. Cras at feugiat risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit velit purus, eget interdum nulla scelerisque eget. Duis quis pretium tellus. Ut dolor libero, dignissim sed enim ac, lobortis bibendum diam. Praesent nunc nibh, mollis eu est quis, molestie hendrerit tellus. Etiam facilisis sed nunc vitae eleifend. Pellentesque tristique augue dolor, et scelerisque elit finibus vel. Praesent odio lacus, venenatis nec imperdiet vel, auctor quis sapien. Suspendisse dignissim leo et efficitur hendrerit. Maecenas fermentum pharetra augue, non molestie mauris dapibus vel. Proin tempor nunc orci.
+>>>>>>> parent of db4d2a4 (Add text no Lorem Ipsum)
